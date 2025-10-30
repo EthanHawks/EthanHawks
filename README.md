@@ -4,8 +4,7 @@
 
 🚀 **Machine Learning Engineer | Data Scientist | AI Builder**
 
-I design and build intelligent systems that turn raw data into real-world insights.  
-My work blends **deep learning**, **data engineering**, and **MLOps** — from model design to deployment.
+I turn raw data into real-world insights.  
 
 💡 **Interests:** Computer Vision · Generative AI · NLP · Remote Sensing  
 🧠 **Tech:** Python · PyTorch · TensorFlow · FastAPI · Docker · AWS · SQL  
